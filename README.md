@@ -1,2 +1,2 @@
-# DaniK-BIP
-BIP Thesis student
+# Dani
+Trying and learning fun things in life
